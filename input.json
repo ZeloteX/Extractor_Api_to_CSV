@@ -1,0 +1,6 @@
+{
+  "action": "Extraction",
+  "as_of_date": "2024-12-01",
+  "tickers": ["AAPL", "AMZN"],
+  "period_in_years": 2
+}
